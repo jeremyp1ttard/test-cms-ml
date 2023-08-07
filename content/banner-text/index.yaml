@@ -1,1 +1,2 @@
-{}
+alertText: This is the text we should show in the banner
+isActive: true
